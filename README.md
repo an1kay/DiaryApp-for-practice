@@ -21,7 +21,8 @@ appsettings.json file example:
 
   "ConnectionStrings": { "DefaultConnection": "YourConnectionStringHere" }
 }
-############# END OF FILE ###################
+
+# Personal Statements
 
 Please poke around and take a look at the LINQ statements I used in DiaryEntriesController to handle searching and discriminating by DateTime.
 
